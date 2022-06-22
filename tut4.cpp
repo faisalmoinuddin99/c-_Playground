@@ -25,7 +25,10 @@ Inside main update global:50
 Inside another function: 100
 
 -------------------------------
-
+Inside main: 100
+Inside main update global:50
+decreasing global variable by 10: 40
+Inside another function: 100
 
 
 */
