@@ -3,12 +3,14 @@ Debugging exercise:
 */
 
 #include<iostream>
-using namespace std ;
+
 int main(){
-	int i  =  0;
+	short i = 2500, j=3500 ;
 	
-	i = i + 1;
-	cout<<i ;
-	/*comment \*// i = i+ 1 ;
+	std::cout<<"i + j =" << -(i+j) ;
 	return 0 ;
 }
+
+/*
+i + j =-6000
+*/
